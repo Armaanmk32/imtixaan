@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}.sidenav{
+    position:fixed;
+    width: 8%;
+    background-color: #FFC297;
+    height: 100vh;
+    padding-top: 20px;
+    text-align: center;
+}
+.sidenav img{
+    height: 65px;
+    width: 65px;
+    margin-bottom: 30px;
+}
+.sidenav i{
+    font-size: 24px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 26px;
+    
+}
+.gear{
+    font-size: 38px;
+    margin-bottom: 0;
+    color: red;
+    margin-top: 80px;
+}
+.side2{
+    
+    width: 25%;
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    padding: 10px;
+    gap: 30px;
+    padding-left: 100px;
+
+}
+.hooyo {
+    display: flex;
+    padding-left: 200px;
+    justify-content: space-around;
+
+}
+.cunug2 img {
+    width: 50px;
+    height: 50px;
+}
+.side-left{
+    margin-left: 80px;
+}
+.side2 i{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 18px;
+}
+.side2 .side-right{
+    font-size: 24px;
+    margin-bottom: 10px;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+    padding: 14px;
+}
+.side-right h2{
+    padding-bottom: 20px;
+}
+
+.side-right h3{
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+.side-right p{
+    padding-bottom: 20px;
+    padding-top: 18px;
+    font-weight: lighter;
+    color: gray;
+}
+form {
+    margin-right: 100px;
+}
